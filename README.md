@@ -18,8 +18,9 @@ Website Snapmoo Photobooth Portable Tegal merupakan website UMKM yang dibuat seb
 
 ## Screenshot Tampilan
 
-*(Screenshot website akan ditambahkan di sini.)*
+
 
 ## Author
-Nama : Aisyah Al Mumtahannah
-NIM  : 6725600006
+Nama : Aisyah Al Mumtahannah.
+
+NIM  : 6725600006.
