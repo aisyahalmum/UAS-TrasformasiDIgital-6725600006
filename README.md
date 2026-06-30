@@ -21,10 +21,6 @@ Website Snapmoo Photobooth Portable Tegal merupakan website UMKM yang dibuat seb
 2. Buka file `index.html` menggunakan browser seperti Google Chrome atau Microsoft Edge.
 3. Website siap digunakan.
 
-## Laporan Project
-
-(Laporan Website Snapmoo Photobooth Portable Tegal.pdf)
-
 ## Screenshot Tampilan
 ![Halaman Home](https://github.com/aisyahalmum/UAS-TrasformasiDIgital-6725600006/blob/main/Tampilan%20Home.jpeg?raw=true)
 ![Halaman Services](https://github.com/aisyahalmum/UAS-TrasformasiDIgital-6725600006/blob/main/Tampilan%20Services.jpeg?raw=true)
